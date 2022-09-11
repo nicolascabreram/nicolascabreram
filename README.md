@@ -21,3 +21,12 @@ Data scientist | Actively solving problems using data science and data analytics
    
  <b><i>I truly believe that machine learning, data science, and data analytics has the power to change people's lives for the better. 
    
+## Pinned projects
+
+### Data treatment
+
+### Classification model
+
+### Regression model
+
+### Neural networks
