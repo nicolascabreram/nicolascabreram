@@ -25,7 +25,11 @@ Data scientist | Actively solving problems using data science and data analytics
 
 ### Data treatment
 
+Exploring a xxx database obtainig xxx and xxx. Cleaned, organized and manipulate data with pandas visualization. 
+
 ### Classification model
+
+Deploying a model to predict if a patient has a bening or malingnat tumour. Data treament, dimentionality reduction, classification algorithms, data visualization
 
 ### Regression model
 
