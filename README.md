@@ -35,6 +35,6 @@ Deploying a model to predict if a patient has a bening or malingnat tumour. Data
 
 ### Neural networks
 
-### *Class:* Machine Learninig for biomedical engineering
+### Class: Machine Learninig for biomedical engineering
 
 https://github.com/nicolascabreram/TA_Machinelearning_BMEN
