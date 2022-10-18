@@ -32,6 +32,8 @@ A data set obtained from www.glassdoor.com in USA was used to answer the followi
 3. Average Salary in Different States
 4. Top 5 Industries with Maximum Number of Data Science Related Job Postings.
 5. Companies with Maximum Number of Job Openings
+  
+https://github.com/nicolascabreram/Data-Exploration/blob/main/Insights%20Data%20Science%20Jobs.ipynb
 
 ### Classification model
 
