@@ -23,17 +23,21 @@ Data scientist | Actively solving problems using data science and data analytics
    
 ## Pinned projects
 
-### Data treatment
+### Data exploration
 
-Exploring a xxx database obtainig xxx and xxx. Cleaned, organized and manipulate data with pandas visualization. 
+A data set obtained from www.glassdoor.com in USA was used to answer the following questions:
+
+1. States with Most Number of Jobs
+2. Average Minimal and Maximal Salaries in Different States
+3. Average Salary in Different States
+4. Top 5 Industries with Maximum Number of Data Science Related Job Postings.
+5. Companies with Maximum Number of Job Openings
 
 ### Classification model
 
-Deploying a model to predict if a patient has a bening or malingnat tumour. Data treament, dimentionality reduction, classification algorithms, data visualization
+Deploying a model to predict if a patient has a bening or malingnat tumour. Data treament, dimentionality reduction, classification algorithms, data visualization, and regression model.
 
-### Regression model
-
-### Neural networks
+https://github.com/nicolascabreram/Cancer_classification/blob/main/Cancer_Classification.ipynb
 
 ### Class: Machine Learninig for biomedical engineering
 
